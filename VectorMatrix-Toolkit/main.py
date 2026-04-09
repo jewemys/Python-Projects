@@ -49,4 +49,4 @@ def dot_product(v1, v2):
     return result
 
 final = dot_product([[1, 2, 3]], [4, 5, 2])
-print(final)
+print(final) # works
